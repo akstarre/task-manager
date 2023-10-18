@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Welcome to **Task Manager Pro** - your ultimate task management solution. Designed with meticulous attention to detail, this application helps you prioritize, organize, tag, and never miss a deadline, all the while providing a seamless and visually intuitive user experience.
+![todo-snip](https://github.com/akstarre/task-manager/assets/121568866/a552b3f3-81c1-485f-9a90-2e2b50f8ef3d)
 
 ## 🌟 Features
 
